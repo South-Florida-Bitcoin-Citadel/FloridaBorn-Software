@@ -18,6 +18,14 @@ We want to keep track of things that get produced here
 for archival sake, and to take stock of the value of 
 co-working and open source development. 
 
+## Projects Represented
+
+- [CoinGeek] (https://coingeek.com)
+- [GorillaPool](https://gorillapool.com/)
+- [TonicPow] (https://tonicpow.com)
+- [VXtech] (https://vxpass.com/)
+- Add your company if you work here!
+
 ## What are we working on?!
 
 Feel free to make a pull request and add a link to anything you have built, updated or contributed to at the Citadel!
