@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://twitter.com/bitcoin_florida">
-    <img src="https://imgur.com/Mko80KB" height="300px">
+    <img src="(https://i.imgur.com/Mko80KB.png)">
   </a>
 </p>
 
