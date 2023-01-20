@@ -30,7 +30,7 @@ co-working and open source development.
 
 Feel free to make a pull request and add a link to anything you have built, updated or contributed to at the Citadel!
 
-- **[BitcoinSchema]**(https://github.com/BitcoinSchema/) *Enable developers to create interoperable data based applications over bitcoin.*
+- **[BitcoinSchema](https://github.com/BitcoinSchema/)** *Enable developers to create interoperable data based applications over bitcoin.*
 - Add Cool stuff here and help sort this over time. Thank you!
   
 ## Documentation
