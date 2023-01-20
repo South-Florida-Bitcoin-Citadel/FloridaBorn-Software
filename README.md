@@ -20,10 +20,10 @@ co-working and open source development.
 
 ## Projects Represented
 
-- [CoinGeek] (https://coingeek.com)
+- [CoinGeek](https://coingeek.com)
 - [GorillaPool](https://gorillapool.com/)
-- [TonicPow] (https://tonicpow.com)
-- [VXtech] (https://vxpass.com/)
+- [TonicPow](https://tonicpow.com)
+- [VXtech](https://vxpass.com/)
 - Add your company if you work here!
 
 ## What are we working on?!
