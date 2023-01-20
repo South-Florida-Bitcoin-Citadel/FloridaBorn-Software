@@ -22,6 +22,7 @@ co-working and open source development.
 - [GorillaPool](https://gorillapool.com/)
 - [TonicPow](https://tonicpow.com)
 - [VXtech](https://vxpass.com/)
+- [Jamify](https://jamify.xyz/)
 - Add your company if you work here!
 
 ## What are we working on?!
