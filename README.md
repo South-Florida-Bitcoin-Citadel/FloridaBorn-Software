@@ -1,4 +1,4 @@
-# FloridaBorn-Software
+# Florida Citadel Software
 
 
 <p align="center">
@@ -26,7 +26,7 @@ Feel free to make a pull request and add a link to anything you have built, upda
 - Add Cool stuff here and help sort this over time. Thank you!
   
 ## Documentation
-You can find our documentation on our [website]()
+Add something cool here too.
 
 ## Contributors ✨
 
