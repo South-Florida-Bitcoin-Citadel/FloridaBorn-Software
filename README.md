@@ -30,11 +30,11 @@ co-working and open source development.
 
 Feel free to make a pull request and add a link to anything you have built, updated or contributed to at the Citadel!
 
-- **[BitcoinSchema:](https://github.com/BitcoinSchema/)** *Enable developers to create interoperable data based applications over bitcoin.*
-- **[Magic Attribute Protocol:](https://github.com/rohenaz/MAP)** *Simple, flexible OP_RETURN protocol for associating data in a single transaction.*
-- **[Go-BPU:](https://github.com/BitcoinSchema/go-bpu)** *Transform Bitcoin Transactions into Virtual Procedure Call Units.*
-- **[JS-JungleBus:](https://github.com/gorillapool/js-junglebus)** *JS-High power overlay network engine for bitcoin.*
-- **[GO-JungleBus:](https://github.com/gorillapool/js-junglebus)** *GO-High power overlay network engine for bitcoin.*
+- **[BitcoinSchema -](https://github.com/BitcoinSchema/)** Enable developers to create interoperable data based applications over bitcoin.
+- **[Magic Attribute Protocol -](https://github.com/rohenaz/MAP)** Simple, flexible OP_RETURN protocol for associating data in a single transaction.
+- **[Go-BPU -](https://github.com/BitcoinSchema/go-bpu)** Transform Bitcoin Transactions into Virtual Procedure Call Units.
+- **[JS-JungleBus -](https://github.com/gorillapool/js-junglebus)** JS-High power overlay network engine for bitcoin.
+- **[GO-JungleBus -](https://github.com/gorillapool/js-junglebus)** GO-High power overlay network engine for bitcoin.
   
 ## Documentation
 Add something cool here too.
