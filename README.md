@@ -2,9 +2,9 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-gold.svg?style=flat-square)](#contributors-)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)]
-[![Follow on Twitter](https://img.shields.io/badge/PRs-florida_bitcoin-blue.svg?style=flat-square)](https://twitter.com/Bitcoin_Florida)
+[![Follow on Twitter](https://img.shields.io/badge/Twitter-florida_bitcoin-blue.svg?style=flat-square)](https://twitter.com/Bitcoin_Florida)
 
-!(https://i.imgur.com/Mko80KB.png)
+![Alt Text](https://i.imgur.com/Mko80KB.png)
 <p align="center">
   <a href="https://twitter.com/bitcoin_florida">
     <img src="(https://i.imgur.com/Mko80KB.png)">
