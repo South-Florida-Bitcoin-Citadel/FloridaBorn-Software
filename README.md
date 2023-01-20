@@ -30,7 +30,10 @@ co-working and open source development.
 Feel free to make a pull request and add a link to anything you have built, updated or contributed to at the Citadel!
 
 - **[BitcoinSchema:](https://github.com/BitcoinSchema/)** *Enable developers to create interoperable data based applications over bitcoin.*
-- Add Cool stuff here and help sort this over time. Thank you!
+- **[Magic Attribute Protocol:](https://github.com/rohenaz/MAP)** *Simple, flexible OP_RETURN protocol for associating data in a single transaction.*
+- **[Go-BPU:](https://github.com/BitcoinSchema/go-bpu)** *Transform Bitcoin Transactions into Virtual Procedure Call Units.*
+- **[JS-JungleBus:](https://github.com/gorillapool/js-junglebus)** *JS-High power overlay network engine for bitcoin.*
+- **[GO-JungleBus:](https://github.com/gorillapool/js-junglebus)** *GO-High power overlay network engine for bitcoin.*
   
 ## Documentation
 Add something cool here too.
@@ -40,3 +43,7 @@ Add something cool here too.
 Thanks goes to these wonderful people
 - This Guy
 - That Guy
+
+## LICENSE
+**READ CAREFULLY**
+We don't own anything in here. It is a list of software only. We post here specifically to give credit to the brilliant people who develop software. Licenses to specific software in their linked repositories. 
