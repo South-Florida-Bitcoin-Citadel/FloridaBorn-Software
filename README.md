@@ -11,8 +11,6 @@
   </a>
 </p>
 
-&nbsp
-
 Was it built or updated at the South Florida Citadel? 
 We want to keep track of things that get produced here 
 for archival sake, and to take stock of the value of 
