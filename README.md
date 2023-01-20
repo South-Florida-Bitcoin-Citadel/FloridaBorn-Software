@@ -1,7 +1,7 @@
 # Florida Citadel Software
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-gold.svg?style=flat-square)](#contributors-)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)]
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
 [![Follow on Twitter](https://img.shields.io/badge/Twitter-follow-blue.svg?style=flat-square)](https://twitter.com/Bitcoin_Florida)
 [![Follow on Twitter](https://img.shields.io/badge/Meetup-join-red.svg?style=flat-square)](https://www.meetup.com/bitcoin-citadel-south-florida)
 
