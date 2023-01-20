@@ -1,5 +1,8 @@
 # Florida Citadel Software
 
+[![All Contributors](https://img.shields.io/badge/all_contributors-153-orange.svg?style=flat-square)](#contributors-)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 ![Alt Text](https://i.imgur.com/Mko80KB.png)
 <p align="center">
   <a href="https://twitter.com/bitcoin_florida">
@@ -7,11 +10,7 @@
   </a>
 </p>
 
-&nbsp;
-
-[![All Contributors](https://img.shields.io/badge/all_contributors-153-orange.svg?style=flat-square)](#contributors-)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-
+&nbsp
 
 Was it built or updated at the South Florida Citadel? 
 We want to keep track of things that get produced here 
