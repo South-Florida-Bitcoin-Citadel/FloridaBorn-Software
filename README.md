@@ -40,7 +40,7 @@ Feel free to make a pull request and add a link to anything you have built, upda
 Add something cool here too.
 
 ## Contributors ✨
-Thank you to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Thank you to these wonderful people whose work is featured her!
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -51,6 +51,13 @@ Thank you to these wonderful people ([emoji key](https://allcontributors.org/doc
     <td align="center"><a href="https://github.com/icellan"><img src="https://avatars.githubusercontent.com/u/4411176?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Siggi</b></sub></a><br/><a</a></td>
     <td align="center"><a href="https://github.com/rohenaz"><img src="https://avatars.githubusercontent.com/u/456719?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Satchmo</b></sub></a><br/><a</a></td>
     <td align="center"><a href="https://github.com/DanielKrawisz"><img src="https://avatars.githubusercontent.com/u/4990891?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Daniel</b></sub></a><br/><a</a></td>
+    <td align="center"><a href="https://github.com/jadwahab"><img src="https://avatars.githubusercontent.com/u/15110087?v=4s=100" width="100px;" alt=""/><br /><sub><b>Jad</b></sub></a><br/><a</a></td>
+    <td align="center"><a href="https://github.com/shruggr"><img src="https://avatars.githubusercontent.com/u/6504230?v=4=100" width="100px;" alt=""/><br /><sub><b>Shruggr</b></sub></a><br/><a</a></td>
+    <td align="center"><a href="https://github.com/kurtwuckertjr"><img src="https://avatars.githubusercontent.com/u/57050920?v=4=100" width="100px;" alt=""/><br /><sub><b>Kurt</b></sub></a><br/><a</a></td>
+    
+    
+    
+    
   </tr>
 </table>
 
