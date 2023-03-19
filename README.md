@@ -33,9 +33,9 @@ Feel free to make a pull request and add a link to anything you have built, upda
 - **[BitcoinSchema -](https://github.com/BitcoinSchema/)** Enable developers to create interoperable data based applications over bitcoin.
 - **[Magic Attribute Protocol -](https://github.com/rohenaz/MAP)** Simple, flexible OP_RETURN protocol for associating data in a single transaction.
 - **[Go-BPU -](https://github.com/BitcoinSchema/go-bpu)** Transform Bitcoin Transactions into Virtual Procedure Call Units.
-- **[JS-JungleBus -](https://github.com/gorillapool/js-junglebus)** JS-High power overlay network engine for bitcoin.
-- **[GO-JungleBus -](https://github.com/gorillapool/js-junglebus)** GO-High power overlay network engine for bitcoin.
-  
+- **[JungleBus -](Junglebus.gorillapool.io/docs)** GO-High power overlay network engine for bitcoin.
+- **[1 Sat Ordinals -](https://docs.1satordinals.com/)** A low level, powerful, open token protocol for bitcoin. 
+- **[MagicDapp -](https://www.youtube.com/live/ucC2dO9Ikn4) Click-to-Code App for on-chain data using **[BitcoinSchema -](https://github.com/BitcoinSchema/)** & - **[JungleBus -](Junglebus.gorillapool.io/docs)**
 ## Documentation
 Add something cool here too.
 
