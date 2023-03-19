@@ -54,9 +54,7 @@ Thank you to these wonderful people whose work is featured her!
     <td align="center"><a href="https://github.com/jadwahab"><img src="https://avatars.githubusercontent.com/u/15110087?v=4s=100" width="100px;" alt=""/><br /><sub><b>Jad</b></sub></a><br/><a</a></td>
     <td align="center"><a href="https://github.com/shruggr"><img src="https://avatars.githubusercontent.com/u/6504230?v=4=100" width="100px;" alt=""/><br /><sub><b>Shruggr</b></sub></a><br/><a</a></td>
     <td align="center"><a href="https://github.com/kurtwuckertjr"><img src="https://avatars.githubusercontent.com/u/57050920?v=4=100" width="100px;" alt=""/><br /><sub><b>Kurt</b></sub></a><br/><a</a></td>
-    
-    
-    
+   <td align="center"><a href="https://github.com/cloudhax"><img src="https://avatars.githubusercontent.com/u/3861165?v=4=100" width="100px;" alt=""/><br /><sub><b>Root</b></sub></a><br/><a</a></td
     
   </tr>
 </table>
