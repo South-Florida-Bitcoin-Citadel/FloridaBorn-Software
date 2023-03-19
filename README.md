@@ -68,10 +68,6 @@ Thank you to these wonderful people whose work is featured her!
 
 <br/>
 
-Thanks goes to these wonderful people
-- This Guy
-- That Guy
-
 ## Guestbook
 If you visited, and just want us to see something cool you have made, make a pull request and put it here! 
 - [POW.co](https://pow.co)
