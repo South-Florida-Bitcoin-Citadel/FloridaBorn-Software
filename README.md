@@ -1,21 +1,18 @@
 # Florida Citadel Software
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-gold.svg?style=flat-square)](#contributors-)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)]()
 [![Follow on Twitter](https://img.shields.io/badge/Twitter-follow-blue.svg?style=flat-square)](https://twitter.com/Bitcoin_Florida)
-[![Follow on Twitter](https://img.shields.io/badge/Meetup-join-red.svg?style=flat-square)](https://www.meetup.com/bitcoin-citadel-south-florida)
+[![Join Meetup](https://img.shields.io/badge/Meetup-join-red.svg?style=flat-square)](https://www.meetup.com/south-florida-bitcoin-citadel-events/)
 
-![Alt Text](https://i.imgur.com/Mko80KB.png)
 <p align="center">
   <a href="https://twitter.com/bitcoin_florida">
-    <img src="(https://i.imgur.com/Mko80KB.png)">
+    <img src="https://i.imgur.com/Mko80KB.png" alt="Florida Citadel Software Logo">
   </a>
 </p>
 
-Was it built or updated at the South Florida Citadel? 
-We want to keep track of things that get produced here 
-for archival sake, and to take stock of the value of 
-co-working and open source development. 
+Was the project built or updated at the South Florida Citadel? We aim to keep track of things that are produced here for archival purposes and to showcase the value of co-working and open-source development.
+
 
 ## Projects Represented
 
