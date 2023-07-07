@@ -14,7 +14,7 @@
 Was the project built or updated at the South Florida Citadel? We aim to keep track of things that are produced here for archival purposes and to showcase the value of co-working and open-source development.
 
 
-## Projects Represented
+## Brands Represented
 
 - [CoinGeek](https://coingeek.com)
 - [GorillaPool](https://gorillapool.com/)
