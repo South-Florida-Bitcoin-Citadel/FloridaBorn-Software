@@ -50,9 +50,10 @@ Thank you to these wonderful people whose work is featured her!
     <td align="center"><a href="https://mrz1818.com"><img src="https://avatars.githubusercontent.com/u/3743002?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mr. Z</b></sub></a><br/><a</a></td>
     <td align="center"><a href="https://github.com/icellan"><img src="https://avatars.githubusercontent.com/u/4411176?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Siggi</b></sub></a><br/><a</a></td>
     <td align="center"><a href="https://github.com/rohenaz"><img src="https://avatars.githubusercontent.com/u/456719?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Satchmo</b></sub></a><br/><a</a></td>
+      <td align="center"><a href="https://github.com/ZacharyWeiner"><img src="https://avatars.githubusercontent.com/u/456719?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Zack</b></sub></a><br/><a</a></td>
+        <td align="center"><a href="https://github.com/shruggr"><img src="https://avatars.githubusercontent.com/u/6504230?v=4=100" width="100px;" alt=""/><br /><sub><b>Shruggr</b></sub></a><br/><a</a></td>
     <td align="center"><a href="https://github.com/DanielKrawisz"><img src="https://avatars.githubusercontent.com/u/4990891?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Daniel</b></sub></a><br/><a</a></td>
     <td align="center"><a href="https://github.com/jadwahab"><img src="https://avatars.githubusercontent.com/u/15110087?v=4s=100" width="100px;" alt=""/><br /><sub><b>Jad</b></sub></a><br/><a</a></td>
-    <td align="center"><a href="https://github.com/shruggr"><img src="https://avatars.githubusercontent.com/u/6504230?v=4=100" width="100px;" alt=""/><br /><sub><b>Shruggr</b></sub></a><br/><a</a></td>
     <td align="center"><a href="https://github.com/kurtwuckertjr"><img src="https://avatars.githubusercontent.com/u/57050920?v=4=100" width="100px;" alt=""/><br /><sub><b>Kurt</b></sub></a><br/><a</a></td>
    <td align="center"><a href="https://github.com/cloudhax"><img src="https://avatars.githubusercontent.com/u/3861165?v=4=100" width="100px;" alt=""/><br /><sub><b>Root</b></sub></a><br/><a</a></td
     
